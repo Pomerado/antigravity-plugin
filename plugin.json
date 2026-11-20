@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "pomerado",
+  "displayName": "Pomerado",
+  "version": "1.0.0",
+  "description": "Connect your agents to any website. The cheaper, faster, and more reliable alternative to browser use.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Use Pomerado to get the 7-day forecast for Yosemite Valley on weather.gov.",
+    "Use Pomerado to get the top 10 stories on Hacker News right now.",
+    "Use Pomerado to find the cheapest nonstop flights from SFO to JFK on March 12, 2027 for one adult in economy on Google Flights."
+  ],
+  "author": {
+    "name": "Pomerado AI, Inc.",
+    "email": "founders@pomerado.ai",
+    "url": "https://pomerado.ai"
+  },
+  "homepage": "https://pomerado.ai",
+  "repository": "https://github.com/Pomerado/antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "pomerado",
+    "mcp",
+    "websites",
+    "web-automation",
+    "ai-agents",
+    "forms",
+    "research"
+  ]
+}
